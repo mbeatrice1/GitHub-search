@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  MyGitToken: "1ab282bd1149e0a95b1d443bd3fbf9d833680ce5"
+  MyApi: "1ab282bd1149e0a95b1d443bd3fbf9d833680ce5"
 };
 
 /*

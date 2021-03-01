@@ -5,12 +5,20 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { LandingComponent } from './landing/landing.component';
 import { NavbarComponent } from './navbar/navbar.component';
+import { FormComponent } from './form/form.component';
+import { RepositoriesComponent } from './repositories/repositories.component';
+import { ServicesComponent } from './services/services.component';
+import { UserInfoComponent } from './user-info/user-info.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     LandingComponent,
-    NavbarComponent
+    NavbarComponent,
+    FormComponent,
+    RepositoriesComponent,
+    ServicesComponent,
+    UserInfoComponent
   ],
   imports: [
     BrowserModule,
