@@ -18,7 +18,7 @@ input {
  
  
  button {
-    color: white;
+    color: green;
     padding: 14px 20px;
     margin: 8px 0;
     border: none;
@@ -28,4 +28,5 @@ input {
  form {
     padding: 20px;
     width: 100vh; 
+    background-image: url("/GitSearch/src/app/form/images/image5.jpg");
  }
